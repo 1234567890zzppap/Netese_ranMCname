@@ -1,0 +1,8 @@
+c:\users\zzppap\documents\visual studio 2012\Projects\冈易Name生成器\冈易Name生成器\bin\Release\冈易Name生成器.exe
+c:\users\zzppap\documents\visual studio 2012\Projects\冈易Name生成器\冈易Name生成器\bin\Release\冈易Name生成器.pdb
+c:\users\zzppap\documents\visual studio 2012\Projects\冈易Name生成器\冈易Name生成器\obj\Release\冈易Name生成器.Form1.resources
+c:\users\zzppap\documents\visual studio 2012\Projects\冈易Name生成器\冈易Name生成器\obj\Release\冈易Name生成器.Properties.Resources.resources
+c:\users\zzppap\documents\visual studio 2012\Projects\冈易Name生成器\冈易Name生成器\obj\Release\冈易Name生成器.csproj.GenerateResource.Cache
+c:\users\zzppap\documents\visual studio 2012\Projects\冈易Name生成器\冈易Name生成器\obj\Release\冈易Name生成器.exe
+c:\users\zzppap\documents\visual studio 2012\Projects\冈易Name生成器\冈易Name生成器\obj\Release\冈易Name生成器.pdb
+c:\users\zzppap\documents\visual studio 2012\Projects\冈易Name生成器\冈易Name生成器\obj\Release\冈易Name生成器.csprojResolveAssemblyReference.cache
